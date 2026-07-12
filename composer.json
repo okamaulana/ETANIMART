@@ -1,0 +1,6 @@
+{
+    "require": {
+        "midtrans/midtrans-php": "^2.6",
+        "phpmailer/phpmailer": "^7.1"
+    }
+}
