@@ -4,5 +4,5 @@ Etanimart adalah web agritech yang menghubungkan petani (Petugas) dan pembeli (P
 DEVELOPER : OKA MAULANA  
 CONTACT : 082287956090  
 
-INDEX :
+INDEX :  
 <img width="1317" height="3886" alt="screencapture-etanimart-domaku-id-2026-07-12-12_14_29" src="https://github.com/user-attachments/assets/11e73896-7a82-45f2-a0db-193d6c206b3e" />
